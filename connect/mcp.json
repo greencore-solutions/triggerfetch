@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "triggerfetch": {
+      "url": "https://triggerfetch.ai/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}
