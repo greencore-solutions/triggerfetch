@@ -3,7 +3,7 @@
   "name": "ai.triggerfetch/triggerfetch",
   "description": "When a shopper asks ChatGPT, Claude, Gemini or Grok for a product, is yours in the answer?",
   "title": "triggerfetch",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "websiteUrl": "https://triggerfetch.ai",
   "icons": [
     {
