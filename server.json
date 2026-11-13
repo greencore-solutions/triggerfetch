@@ -3,7 +3,7 @@
   "name": "ai.triggerfetch/triggerfetch",
   "description": "When a shopper asks ChatGPT, Claude, Gemini or Grok for a product, is yours in the answer?",
   "title": "triggerfetch",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "websiteUrl": "https://triggerfetch.ai",
   "icons": [
     {
@@ -29,7 +29,7 @@
   ],
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
-      "organisation": "GreenCore Solutions Corp.",
+      "organisation": "WeFetch AI Corp.",
       "powered_by": "https://gtinfetch.ai",
       "product": "wefetch"
     }
